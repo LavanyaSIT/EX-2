@@ -28,7 +28,7 @@ while True:
     else:
         c.close()
         break
-``
+```
 # SERVER PROGRAM :
 ```
  import socket
