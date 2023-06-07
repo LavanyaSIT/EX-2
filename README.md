@@ -46,8 +46,10 @@ while True:
     
     # output:
     # server output:
-    ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/2b0aa48f-b212-42d0-97f3-600f0740d9a8)
+    ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/3ff8501e-6d95-4119-930f-f8d7b1c3bcb4)
+
     # client output:
-    ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/11456372-3878-43d8-80e5-d0491daab503)
+    ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/59dedb7b-6fe2-4aca-a538-1a6799d28684)
+
     # Result:
     Thus, python program to perform stop and wait protocol was successfully executed
