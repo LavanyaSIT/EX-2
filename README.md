@@ -12,6 +12,7 @@ To write a python program to perform stop and wait protocol
 otherwise it will sendNACK signal to client.
 6. Stop the program
 # CLIENT PROGRAM :
+```
 import socket
 s = socket.socket()
 s.bind(("localhost", 8000))
@@ -27,9 +28,9 @@ while True:
     else:
         c.close()
         break
-
+```
 # SERVER PROGRAM :
-
+```
  import socket
  
 s=socket.socket()
@@ -41,6 +42,7 @@ while True:
     print(s.recv(1024).decode()) 
     
     s.send("Acknowledgement Received".encode())
+    ```
     
     # output:
     # server output:
