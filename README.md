@@ -31,17 +31,17 @@ while True:
 ```
 # SERVER PROGRAM :
 ```
- import socket
- 
-s=socket.socket()
+  import socket
+  
+  s=socket.socket()
 
-s.connect(("localhost", 8000))
+  s.connect(("localhost", 8000))
 
-while True:
+  while True:
 
-    print(s.recv(1024).decode()) 
+     print(s.recv(1024).decode()) 
     
-    s.send("Acknowledgement Received".encode())
+     s.send("Acknowledgement Received".encode())
     ```
     
     # output:
