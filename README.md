@@ -46,7 +46,8 @@ while True:
 
     # client output:
     
-    ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/db760798-0b9d-407a-986e-80c564e6499c)
+  
+  ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/db760798-0b9d-407a-986e-80c564e6499c)
 
 
     # Result:
