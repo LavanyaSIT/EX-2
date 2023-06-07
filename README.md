@@ -41,13 +41,14 @@ while True:
     
     # output:
     # server output:
-   
-   ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/ce0971c3-01c4-4f33-b0ad-651983eb7a01)
+ ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/f5bfa405-df3a-4664-9be6-141cacc6845f)
+
 
     # client output:
     
   
-  ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/db760798-0b9d-407a-986e-80c564e6499c)
+ ![ct](https://github.com/LavanyaSIT/EX-2/assets/130207418/5d3bf906-d8ab-4e9b-9433-1c46af786b0c)
+
 
 
     # Result:
