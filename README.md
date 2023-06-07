@@ -30,20 +30,22 @@ while True:
         break
 ```
 # SERVER PROGRAM :
- 
+ ```
    import socket
    s=socket.socket()
    s.connect(("localhost", 8000))
    while True:
      print(s.recv(1024).decode()) 
       s.send("Acknowledgement Received".encode())
-    
+  ```  
     
     # output:
     # server output:
-    ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/ce0971c3-01c4-4f33-b0ad-651983eb7a01)
+   
+   ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/ce0971c3-01c4-4f33-b0ad-651983eb7a01)
 
     # client output:
+    
     ![client](https://github.com/LavanyaSIT/EX-2/assets/130207418/db760798-0b9d-407a-986e-80c564e6499c)
 
 
