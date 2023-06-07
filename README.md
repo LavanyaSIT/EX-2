@@ -41,7 +41,8 @@ while True:
     
     # output:
     # server output:
- ![image](https://github.com/LavanyaSIT/EX-2/assets/130207418/f5bfa405-df3a-4664-9be6-141cacc6845f)
+![sl](https://github.com/LavanyaSIT/EX-2/assets/130207418/0eed60c6-13fb-4b2c-893f-15b1c871cb36)
+
 
 
     # client output:
